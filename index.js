@@ -7,7 +7,6 @@ return recipes
 }
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
-  var obj = recipes
   var key = 'prop2'
   var value = '2'
   obj[key] = value
