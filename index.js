@@ -7,6 +7,6 @@ return recipes
 }
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
-  recipes.prop2[]
+  recipes[prop2] =
   return recipes;
 }
