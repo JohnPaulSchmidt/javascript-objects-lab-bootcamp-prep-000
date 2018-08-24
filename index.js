@@ -9,6 +9,6 @@ return recipes
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
   var key = 'prop2'
   var value = '2'
-  obj[key] = value
+  [key] = value
   return obj
 }
