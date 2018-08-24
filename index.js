@@ -8,6 +8,5 @@ return recipes
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
   recipes.spam = 'prop: 1';
-  recipes[prop2] = '2';
   return recipes
 }
