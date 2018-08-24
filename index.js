@@ -1,4 +1,4 @@
-const recipes = {prop:'1'}
+const recipes = {prop:'1', prop2: '2'}
 
 function updateObjectWithKeyAndValue(object, key, value) {
 recipes.prop = "1"
