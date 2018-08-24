@@ -7,6 +7,6 @@ return recipes
 }
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
-  recipes.spam = 'prop: 1';
+  recipes = 'prop: 1';
   return recipes
 }
